@@ -2,11 +2,12 @@
 /**
  * Plugin Name:       SVG Block
  * Description:       Display an SVG image as a block, which can be used for displaying images, icons, dividers, buttons
- * Requires at least: 6.3
+ * Requires at least: 6.5
  * Requires PHP:      7.0
- * Version:           1.1.23
+ * Version:           1.1.24
  * Author:            Phi Phan
  * Author URI:        https://boldblocks.net
+ * Plugin URI:        https://boldblocks.net?utm_source=SVG+Block&utm_campaign=visit+site&utm_medium=link&utm_content=Plugin+URI
  *
  * @package   SVGBlock
  * @copyright Copyright(c) 2022, Phi Phan
