@@ -3,7 +3,7 @@ Contributors:      Mr2P
 Tags:              block, SVG, image, icon, button
 Requires PHP:      7.1
 Requires at least: 6.5
-Tested up to:      6.7
+Tested up to:      6.8
 Stable tag:        1.1.25
 License:           GPL-3.0
 License URI:       https://www.gnu.org/licenses/gpl-3.0.html
